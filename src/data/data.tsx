@@ -401,7 +401,7 @@ export const testimonial: TestimonialSection = {
 
 export const contact: ContactSection = {
   headerText: 'Get in touch',
-  description: 'Feel free to reach out any of the following channels:',
+  description: 'Feel free to reach out using any of the following channels:',
   items: [
     {
       type: ContactType.Email,
